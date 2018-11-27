@@ -1,0 +1,7 @@
+com/wellsfargo/Multiplication.class
+com/wellsfargo/Addition.class
+com/wellsfargo/Division.class
+com/wellsfargo/IMathOperation.class
+com/wellsfargo/Subtraction.class
+com/wellsfargo/RPNCalculator.class
+com/wellsfargo/MathFactory.class
